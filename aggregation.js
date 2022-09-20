@@ -208,7 +208,7 @@
     "id" : "PROMO01",
     "name" : "Sales Promo",
     "period" : "7",
-    "dailySales" : "20,50,12,30,45,15,60"
+    "dailySales" : "20, 50, 12, 30, 45, 15, 60"
 },
 
 {
